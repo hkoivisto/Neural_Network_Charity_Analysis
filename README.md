@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
-This analysis uses a neural network model to predict the potential success of organizations requesting fubnding from AlphabetSoup.
+This analysis uses a neural network model to predict the potential success of organizations requesting funding from AlphabetSoup.
 
 ## Results
 
